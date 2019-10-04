@@ -1,0 +1,6 @@
+stepdefinition/SharedSD.class
+framework/SplashScreen.class
+framework/SignInScreen.class
+framework/BaseMobilePage.class
+stepdefinition/MobileTestScenarios.class
+framework/TestRunner.class

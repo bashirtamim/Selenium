@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501800901358" stop="1501800901405" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login for hotel app</name>
+    <title>Verify invalid login for hotel app</title>
+    <test-cases>
+        <test-case start="1501800901376" stop="1501800901380" status="pending">
+            <name>Given I click on ok button on splash screen</name>
+            <title>Given I click on ok button on splash screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901385" stop="1501800901385" status="pending">
+            <name>And I click on menu button on splash screen</name>
+            <title>And I click on menu button on splash screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901391" stop="1501800901391" status="pending">
+            <name>Given I click on sign in button on splash screen</name>
+            <title>Given I click on sign in button on splash screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901394" stop="1501800901394" status="pending">
+            <name>When I enter mohammad@technosoftsolutions.io into username text field on sign in screen</name>
+            <title>When I enter mohammad@technosoftsolutions.io into username text field on sign in screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901397" stop="1501800901397" status="pending">
+            <name>And I enter test1234 into password text field on sign in screen</name>
+            <title>And I enter test1234 into password text field on sign in screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901399" stop="1501800901399" status="pending">
+            <name>And I click on sign in button on sign in screen</name>
+            <title>And I click on sign in button on sign in screen</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501800901401" stop="1501800901401" status="pending">
+            <name>Then I verify invalid sign in error message</name>
+            <title>Then I verify invalid sign in error message</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="3308@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login for hotel app"/>
+        <label name="feature" value="Verify hotel conditions"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

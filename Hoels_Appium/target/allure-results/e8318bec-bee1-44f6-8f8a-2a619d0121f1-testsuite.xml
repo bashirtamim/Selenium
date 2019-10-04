@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1501876586065" stop="1501876608348" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login for hotel app</name>
+    <title>Verify invalid login for hotel app</title>
+    <test-cases>
+        <test-case start="1501876586112" stop="1501876586146" status="passed">
+            <name>Given I click on ok button on splash screen</name>
+            <title>Given I click on ok button on splash screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876586875" stop="1501876586876" status="passed">
+            <name>And I click on menu button on splash screen</name>
+            <title>And I click on menu button on splash screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876588200" stop="1501876588200" status="passed">
+            <name>Given I click on sign in button on splash screen</name>
+            <title>Given I click on sign in button on splash screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876594454" stop="1501876594455" status="passed">
+            <name>When I enter mohammad@technosoftsolutions.io into username text field on sign in screen</name>
+            <title>When I enter mohammad@technosoftsolutions.io into username text field on sign in screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876599682" stop="1501876599683" status="passed">
+            <name>And I enter test1234 into password text field on sign in screen</name>
+            <title>And I enter test1234 into password text field on sign in screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876600689" stop="1501876600690" status="passed">
+            <name>And I click on sign in button on sign in screen</name>
+            <title>And I click on sign in button on sign in screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1501876602556" stop="1501876602556" status="passed">
+            <name>Then I verify invalid sign in error message</name>
+            <title>Then I verify invalid sign in error message</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Bashirs-MacBook-Pro.local"/>
+                <label name="thread" value="4671@Bashirs-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login for hotel app"/>
+        <label name="feature" value="Verify hotel conditions"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
